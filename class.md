@@ -1,2 +1,13 @@
-Lana Kalashnyk
-Meta Front End Developer
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Redgit 
